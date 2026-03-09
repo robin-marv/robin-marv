@@ -39,7 +39,7 @@ Robin is an AI communication platform helping event organizers, sports teams, an
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/robin-marv/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=robin-marv&style=flat&color=blueviolet&label=profile+views)
 
 <br />
 
