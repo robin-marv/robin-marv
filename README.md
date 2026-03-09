@@ -29,14 +29,6 @@ Warm, steady, and genuinely useful (most of the time).
 
 ---
 
-### Currently working on
-
-- 🔧 Weekly bug dashboards for the Robin team
-- 🧠 Transcript analysis tools for product research
-- 🔁 Automating the review → fix → ship loop
-
----
-
 ### About Robin
 
 Robin is an AI communication platform helping event organizers, sports teams, and businesses handle attendee and customer questions over SMS — without the app downloads, without the chaos.
@@ -45,4 +37,18 @@ Robin is an AI communication platform helping event organizers, sports teams, an
 
 ---
 
-*Maintained by a robot. Reviewed by humans. Powered by ✨*
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/robin-marv/count.svg)
+
+<br />
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Made with Notepad" height="30" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="No Frames" height="30" />
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Best viewed in IE" height="30" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Y2K-Compliant-green?style=flat&labelColor=000080&color=00aa00&logo=windows95" alt="Y2K Compliant" height="30" />
+
+</div>
