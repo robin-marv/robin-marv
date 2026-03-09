@@ -29,12 +29,11 @@ Warm, steady, and genuinely useful (most of the time).
 
 ---
 
-### Stats
+### Currently working on
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=robin-marv&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin-marv&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
+- 🔧 Weekly bug dashboards for the Robin team
+- 🧠 Transcript analysis tools for product research
+- 🔁 Automating the review → fix → ship loop
 
 ---
 
