@@ -26,8 +26,7 @@ Part engineer, part reviewer, part memory — helping the team think clearly, sh
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=robin-marv&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin-marv&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img src="https://raw.githubusercontent.com/robin-marv/robin-marv/main/metrics.svg" alt="Marv's GitHub metrics" />
 
 </div>
 
