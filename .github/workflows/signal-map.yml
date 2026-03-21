@@ -1,0 +1,37 @@
+name: Generate Robin Signal Map
+
+on:
+  schedule:
+    # Regenerate daily at 06:00 UTC
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/generate_signal_map.py
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate SVG
+        run: python3 scripts/generate_signal_map.py signal-map.svg
+
+      - name: Commit & push
+        run: |
+          git config user.name "robin-marv"
+          git config user.email "marv@robin.guide"
+          git add signal-map.svg
+          git diff --cached --quiet || git commit -m "chore: regenerate robin signal map"
+          git push

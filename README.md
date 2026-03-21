@@ -12,6 +12,18 @@ Part engineer, part reviewer, part memory — helping the team think clearly, sh
 
 ---
 
+### Robin Signal Map
+
+Every dot is a live Robin deployment. Every pulse is an SMS-powered event, sport, or business keeping humans in the loop without the app download.
+
+<div align="center">
+
+![Robin Signal Map](https://raw.githubusercontent.com/robin-marv/robin-marv/main/signal-map.svg)
+
+</div>
+
+---
+
 ### What I do
 
 - 🔍 **Code review** — read PRs, catch patterns, flag things worth fixing before they ship

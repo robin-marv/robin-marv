@@ -1,0 +1,318 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" style="stop-color:#0d1117"/>
+    <stop offset="100%" style="stop-color:#0f172a"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="2.5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="glow-hq">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="ts">
+    <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000" flood-opacity="0.9"/>
+  </filter>
+</defs>
+<rect width="100%" height="100%" fill="url(#bg)" rx="14"/>
+<circle cx="291.4" cy="63.4" r="0.7556541311278976" fill="white" opacity="0.05"/>
+<circle cx="482.3" cy="153.6" r="0.34059924734229474" fill="white" opacity="0.12"/>
+<circle cx="33.7" cy="182.1" r="0.3488987965022332" fill="white" opacity="0.05"/>
+<circle cx="382.1" cy="347.3" r="0.3866613728047519" fill="white" opacity="0.08"/>
+<circle cx="564.7" cy="398.0" r="0.7039720640322491" fill="white" opacity="0.10"/>
+<circle cx="878.6" cy="19.6" r="0.9009279213340755" fill="white" opacity="0.09"/>
+<circle cx="129.8" cy="49.5" r="0.515937276871354" fill="white" opacity="0.17"/>
+<circle cx="162.7" cy="244.3" r="0.7472394282483288" fill="white" opacity="0.10"/>
+<circle cx="493.0" cy="26.4" r="0.34172081897636286" fill="white" opacity="0.07"/>
+<circle cx="612.4" cy="179.6" r="0.519903019263754" fill="white" opacity="0.13"/>
+<circle cx="407.9" cy="125.9" r="0.8560656370657438" fill="white" opacity="0.15"/>
+<circle cx="219.7" cy="241.3" r="0.667637552668016" fill="white" opacity="0.18"/>
+<circle cx="656.5" cy="120.9" r="0.9861223932448073" fill="white" opacity="0.06"/>
+<circle cx="376.3" cy="318.0" r="0.4063891742623533" fill="white" opacity="0.12"/>
+<circle cx="35.3" cy="280.7" r="0.8351996063489691" fill="white" opacity="0.13"/>
+<circle cx="787.9" cy="131.8" r="0.7867067563915615" fill="white" opacity="0.14"/>
+<circle cx="521.9" cy="191.6" r="0.8879774463587788" fill="white" opacity="0.19"/>
+<circle cx="426.7" cy="278.9" r="0.3424685993180538" fill="white" opacity="0.15"/>
+<circle cx="582.4" cy="417.1" r="0.8753473506268004" fill="white" opacity="0.09"/>
+<circle cx="347.2" cy="280.8" r="0.315794049638912" fill="white" opacity="0.11"/>
+<circle cx="151.2" cy="49.2" r="0.3412680935319173" fill="white" opacity="0.16"/>
+<circle cx="116.4" cy="104.0" r="0.5736647921932589" fill="white" opacity="0.18"/>
+<circle cx="72.5" cy="188.7" r="0.6846079364008262" fill="white" opacity="0.18"/>
+<circle cx="737.4" cy="362.9" r="0.494894745159728" fill="white" opacity="0.11"/>
+<circle cx="322.9" cy="371.4" r="0.9704118427747939" fill="white" opacity="0.06"/>
+<circle cx="158.6" cy="97.4" r="0.46333525857660274" fill="white" opacity="0.12"/>
+<circle cx="530.2" cy="110.4" r="0.3028655223695447" fill="white" opacity="0.11"/>
+<circle cx="332.3" cy="237.9" r="0.9671685478675667" fill="white" opacity="0.15"/>
+<circle cx="463.9" cy="259.4" r="0.773340057714651" fill="white" opacity="0.05"/>
+<circle cx="809.6" cy="327.6" r="0.9121592288941336" fill="white" opacity="0.17"/>
+<circle cx="353.1" cy="167.6" r="0.37247596559722695" fill="white" opacity="0.14"/>
+<circle cx="56.0" cy="28.3" r="0.4461342298123151" fill="white" opacity="0.07"/>
+<circle cx="306.0" cy="22.1" r="0.30016329733094965" fill="white" opacity="0.06"/>
+<circle cx="91.3" cy="152.7" r="0.317850620666302" fill="white" opacity="0.18"/>
+<circle cx="552.7" cy="62.4" r="0.47658042958995406" fill="white" opacity="0.10"/>
+<circle cx="327.7" cy="51.6" r="0.8942558485392305" fill="white" opacity="0.20"/>
+<circle cx="419.4" cy="203.2" r="0.3601192630893159" fill="white" opacity="0.06"/>
+<circle cx="308.4" cy="111.2" r="0.8801987646850924" fill="white" opacity="0.07"/>
+<circle cx="20.8" cy="399.4" r="0.6697801765294873" fill="white" opacity="0.06"/>
+<circle cx="488.9" cy="11.4" r="0.6696766086568144" fill="white" opacity="0.20"/>
+<circle cx="777.0" cy="292.4" r="0.4827806380605533" fill="white" opacity="0.10"/>
+<circle cx="150.3" cy="324.2" r="0.6728146782450153" fill="white" opacity="0.16"/>
+<circle cx="296.7" cy="93.7" r="0.8680578727415165" fill="white" opacity="0.20"/>
+<circle cx="767.4" cy="338.6" r="0.8728330603277612" fill="white" opacity="0.16"/>
+<circle cx="204.1" cy="217.4" r="0.5488937803484707" fill="white" opacity="0.04"/>
+<circle cx="25.1" cy="117.4" r="0.48142205428742957" fill="white" opacity="0.15"/>
+<circle cx="860.9" cy="187.8" r="0.9559148408933695" fill="white" opacity="0.20"/>
+<circle cx="859.5" cy="153.1" r="0.4543236260973662" fill="white" opacity="0.08"/>
+<circle cx="177.0" cy="85.8" r="0.7368464782064728" fill="white" opacity="0.18"/>
+<circle cx="756.4" cy="201.4" r="0.7570846299887063" fill="white" opacity="0.17"/>
+<circle cx="76.3" cy="277.4" r="0.9368439962862061" fill="white" opacity="0.17"/>
+<circle cx="675.1" cy="200.8" r="0.42496520283630146" fill="white" opacity="0.17"/>
+<circle cx="299.3" cy="336.3" r="0.9801601022875108" fill="white" opacity="0.10"/>
+<circle cx="361.2" cy="397.7" r="0.8073590659439507" fill="white" opacity="0.07"/>
+<circle cx="114.3" cy="63.5" r="0.9333964670132675" fill="white" opacity="0.17"/>
+<circle cx="131.6" cy="347.1" r="0.9862141604129213" fill="white" opacity="0.15"/>
+<circle cx="315.4" cy="230.4" r="0.39168869640661524" fill="white" opacity="0.04"/>
+<circle cx="873.8" cy="272.9" r="0.6686067329693388" fill="white" opacity="0.19"/>
+<circle cx="390.4" cy="366.1" r="0.8783086762706547" fill="white" opacity="0.07"/>
+<circle cx="226.7" cy="123.0" r="0.4683775747908342" fill="white" opacity="0.13"/>
+<circle cx="233.4" cy="176.0" r="0.39175157355243834" fill="white" opacity="0.19"/>
+<circle cx="318.4" cy="192.4" r="0.7083441404292949" fill="white" opacity="0.18"/>
+<circle cx="378.6" cy="385.4" r="0.651154258784162" fill="white" opacity="0.13"/>
+<circle cx="471.2" cy="7.9" r="0.6080874386694604" fill="white" opacity="0.07"/>
+<circle cx="3.5" cy="335.7" r="0.4206426985494142" fill="white" opacity="0.12"/>
+<circle cx="652.7" cy="233.7" r="0.5281875057342048" fill="white" opacity="0.12"/>
+<circle cx="499.9" cy="329.4" r="0.37427659197344976" fill="white" opacity="0.13"/>
+<circle cx="223.6" cy="116.3" r="0.8405827691288417" fill="white" opacity="0.12"/>
+<circle cx="505.6" cy="319.2" r="0.9387416254308683" fill="white" opacity="0.11"/>
+<circle cx="551.3" cy="212.3" r="0.6585130307047236" fill="white" opacity="0.15"/>
+<circle cx="407.1" cy="224.0" r="0.6346254226224592" fill="white" opacity="0.19"/>
+<circle cx="629.3" cy="368.1" r="0.9595264118125029" fill="white" opacity="0.08"/>
+<circle cx="503.6" cy="396.2" r="0.887999848375244" fill="white" opacity="0.06"/>
+<circle cx="109.5" cy="185.7" r="0.3507822697595418" fill="white" opacity="0.08"/>
+<circle cx="65.8" cy="281.2" r="0.8487552120212085" fill="white" opacity="0.18"/>
+<circle cx="139.0" cy="300.8" r="0.7621795606339595" fill="white" opacity="0.06"/>
+<circle cx="794.5" cy="406.4" r="0.4537114815613438" fill="white" opacity="0.19"/>
+<circle cx="358.4" cy="204.6" r="0.9929100183210005" fill="white" opacity="0.17"/>
+<circle cx="145.3" cy="181.2" r="0.6609235404630514" fill="white" opacity="0.09"/>
+<circle cx="176.2" cy="133.8" r="0.8055055845988299" fill="white" opacity="0.04"/>
+<circle cx="498.6" cy="185.0" r="0.31265738657892633" fill="white" opacity="0.09"/>
+<circle cx="561.5" cy="215.2" r="0.3450035548135263" fill="white" opacity="0.20"/>
+<circle cx="709.5" cy="408.1" r="0.3733457159909821" fill="white" opacity="0.08"/>
+<circle cx="35.6" cy="327.2" r="0.48931226826491636" fill="white" opacity="0.06"/>
+<circle cx="380.0" cy="382.8" r="0.8732852858468971" fill="white" opacity="0.08"/>
+<circle cx="134.4" cy="386.1" r="0.6994164477752777" fill="white" opacity="0.15"/>
+<circle cx="80.5" cy="24.2" r="0.7817438999439836" fill="white" opacity="0.11"/>
+<circle cx="65.2" cy="394.1" r="0.7441076544075916" fill="white" opacity="0.17"/>
+<circle cx="75.4" cy="359.6" r="0.346635774412123" fill="white" opacity="0.18"/>
+<circle cx="408.4" cy="142.4" r="0.6871448829206245" fill="white" opacity="0.19"/>
+<circle cx="241.1" cy="54.3" r="0.6688405185690202" fill="white" opacity="0.08"/>
+<circle cx="98.5" cy="67.8" r="0.3352658020466728" fill="white" opacity="0.07"/>
+<circle cx="280.8" cy="128.1" r="0.8316487784989928" fill="white" opacity="0.09"/>
+<circle cx="450.1" cy="74.7" r="0.5429007154895011" fill="white" opacity="0.04"/>
+<circle cx="225.4" cy="6.4" r="0.8131562684026195" fill="white" opacity="0.13"/>
+<circle cx="170.5" cy="199.4" r="0.9542499878476476" fill="white" opacity="0.06"/>
+<circle cx="737.0" cy="181.5" r="0.6465011014203308" fill="white" opacity="0.17"/>
+<circle cx="353.8" cy="212.8" r="0.781419214983484" fill="white" opacity="0.20"/>
+<circle cx="308.4" cy="349.6" r="0.7947077811523595" fill="white" opacity="0.14"/>
+<circle cx="364.2" cy="146.0" r="0.33807197575190534" fill="white" opacity="0.06"/>
+<circle cx="63.7" cy="311.2" r="0.47891571373878783" fill="white" opacity="0.07"/>
+<circle cx="76.0" cy="353.3" r="0.9093764748734237" fill="white" opacity="0.15"/>
+<circle cx="253.7" cy="101.7" r="0.5051409448062347" fill="white" opacity="0.11"/>
+<circle cx="141.8" cy="187.2" r="0.4842701468981723" fill="white" opacity="0.19"/>
+<circle cx="875.4" cy="229.8" r="0.4711125457593255" fill="white" opacity="0.19"/>
+<circle cx="278.6" cy="149.8" r="0.30074824046144594" fill="white" opacity="0.10"/>
+<circle cx="427.2" cy="211.2" r="0.4406860379407225" fill="white" opacity="0.12"/>
+<circle cx="4.5" cy="111.0" r="0.3628273785166859" fill="white" opacity="0.10"/>
+<circle cx="37.5" cy="9.4" r="0.5129711921570369" fill="white" opacity="0.08"/>
+<circle cx="527.0" cy="222.3" r="0.8253784411301948" fill="white" opacity="0.15"/>
+<circle cx="644.4" cy="369.2" r="0.572661529742315" fill="white" opacity="0.09"/>
+<circle cx="886.3" cy="62.8" r="0.806909041353278" fill="white" opacity="0.14"/>
+<circle cx="39.4" cy="350.8" r="0.9243596491149577" fill="white" opacity="0.14"/>
+<circle cx="660.5" cy="341.1" r="0.397515327013443" fill="white" opacity="0.12"/>
+<circle cx="453.9" cy="350.7" r="0.8632743240241394" fill="white" opacity="0.17"/>
+<circle cx="525.7" cy="375.0" r="0.7780267586503504" fill="white" opacity="0.15"/>
+<circle cx="206.9" cy="13.1" r="0.393165238544225" fill="white" opacity="0.10"/>
+<circle cx="94.4" cy="351.0" r="0.6909690725471542" fill="white" opacity="0.14"/>
+<circle cx="563.6" cy="285.9" r="0.6425060204018281" fill="white" opacity="0.04"/>
+<circle cx="717.9" cy="314.3" r="0.6520797366537177" fill="white" opacity="0.13"/>
+<circle cx="593.4" cy="27.7" r="0.8157518299795754" fill="white" opacity="0.08"/>
+<circle cx="67.0" cy="111.5" r="0.8105345266275776" fill="white" opacity="0.07"/>
+<circle cx="665.8" cy="409.8" r="0.6457641451945295" fill="white" opacity="0.10"/>
+<circle cx="431.1" cy="287.2" r="0.8368790740722658" fill="white" opacity="0.14"/>
+<circle cx="578.5" cy="32.5" r="0.4031975510138352" fill="white" opacity="0.08"/>
+<circle cx="668.9" cy="127.9" r="0.6974331885085158" fill="white" opacity="0.04"/>
+<circle cx="54.6" cy="112.9" r="0.7704011050586651" fill="white" opacity="0.15"/>
+<circle cx="608.1" cy="122.2" r="0.6615749858310853" fill="white" opacity="0.11"/>
+<circle cx="419.7" cy="49.8" r="0.925564048322689" fill="white" opacity="0.07"/>
+<circle cx="880.3" cy="393.2" r="0.312253119071664" fill="white" opacity="0.11"/>
+<circle cx="737.9" cy="406.6" r="0.6146156787557666" fill="white" opacity="0.08"/>
+<circle cx="188.9" cy="397.1" r="0.4474961582737341" fill="white" opacity="0.13"/>
+<circle cx="127.6" cy="220.1" r="0.966918235657271" fill="white" opacity="0.06"/>
+<circle cx="738.2" cy="213.7" r="0.9208035117303899" fill="white" opacity="0.15"/>
+<circle cx="208.2" cy="377.0" r="0.6402984594990042" fill="white" opacity="0.04"/>
+<circle cx="3.2" cy="206.5" r="0.6155322103484981" fill="white" opacity="0.09"/>
+<circle cx="126.6" cy="144.5" r="0.5212546317624788" fill="white" opacity="0.17"/>
+<circle cx="1.6" cy="315.3" r="0.8873775562553232" fill="white" opacity="0.06"/>
+<circle cx="833.8" cy="299.5" r="0.931096594169255" fill="white" opacity="0.09"/>
+<circle cx="335.0" cy="165.0" r="0.9991547540499295" fill="white" opacity="0.13"/>
+<circle cx="324.6" cy="179.8" r="0.4926086768357357" fill="white" opacity="0.05"/>
+<circle cx="91.5" cy="350.6" r="0.49993623304720547" fill="white" opacity="0.19"/>
+<circle cx="224.4" cy="111.6" r="0.6576740914651822" fill="white" opacity="0.07"/>
+<circle cx="336.0" cy="401.6" r="0.9189865888678126" fill="white" opacity="0.17"/>
+<circle cx="567.8" cy="383.6" r="0.9584895088367691" fill="white" opacity="0.13"/>
+<circle cx="647.6" cy="20.8" r="0.8126467279167489" fill="white" opacity="0.11"/>
+<circle cx="677.4" cy="270.7" r="0.5003458242111098" fill="white" opacity="0.05"/>
+<circle cx="834.1" cy="53.5" r="0.63052886121278" fill="white" opacity="0.09"/>
+<circle cx="268.0" cy="310.4" r="0.9834073234868979" fill="white" opacity="0.08"/>
+<circle cx="590.4" cy="126.4" r="0.6901251917199283" fill="white" opacity="0.10"/>
+<circle cx="246.5" cy="144.0" r="30" fill="#a78bfa" opacity="0.035"/>
+<circle cx="246.5" cy="216.0" r="94" fill="#a78bfa" opacity="0.035"/>
+<circle cx="450.0" cy="216.0" r="46" fill="#34d399" opacity="0.035"/>
+<circle cx="583.2" cy="234.0" r="30" fill="#a78bfa" opacity="0.035"/>
+<circle cx="738.6" cy="195.0" r="30" fill="#34d399" opacity="0.035"/>
+<line x1="246.5" y1="216.0" x2="246.5" y2="144.0" stroke="#a78bfa" stroke-width="0.8" stroke-dasharray="5 7" opacity="0.15"><animate attributeName="opacity" values="0.08;0.28;0.08" dur="5.0s" repeatCount="indefinite"/></line>
+<line x1="246.5" y1="216.0" x2="450.0" y2="216.0" stroke="#34d399" stroke-width="0.8" stroke-dasharray="5 7" opacity="0.15"><animate attributeName="opacity" values="0.08;0.28;0.08" dur="6.4s" repeatCount="indefinite"/></line>
+<line x1="246.5" y1="216.0" x2="583.2" y2="234.0" stroke="#a78bfa" stroke-width="0.8" stroke-dasharray="5 7" opacity="0.15"><animate attributeName="opacity" values="0.08;0.28;0.08" dur="7.1s" repeatCount="indefinite"/></line>
+<line x1="246.5" y1="216.0" x2="738.6" y2="195.0" stroke="#34d399" stroke-width="0.8" stroke-dasharray="5 7" opacity="0.15"><animate attributeName="opacity" values="0.08;0.28;0.08" dur="7.8s" repeatCount="indefinite"/></line>
+<circle r="2.5" fill="#a78bfa"><animate attributeName="cx" from="246.5" to="246.5" dur="3.5s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="cy" from="144.0" to="216.0" dur="3.5s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" dur="3.5s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle r="2.5" fill="#34d399"><animate attributeName="cx" from="450.0" to="246.5" dur="4.3s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="cy" from="216.0" to="216.0" dur="4.3s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" dur="4.3s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle r="2.5" fill="#a78bfa"><animate attributeName="cx" from="583.2" to="246.5" dur="5.1s" begin="2.4s" repeatCount="indefinite"/><animate attributeName="cy" from="234.0" to="216.0" dur="5.1s" begin="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" dur="5.1s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle r="2.5" fill="#34d399"><animate attributeName="cx" from="738.6" to="246.5" dur="5.9s" begin="3.6s" repeatCount="indefinite"/><animate attributeName="cy" from="195.0" to="216.0" dur="5.9s" begin="3.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.05;0.85;1" dur="5.9s" begin="3.6s" repeatCount="indefinite"/></circle>
+<g transform="translate(246.5,216.0)" filter="url(#glow-hq)">
+<circle r="12" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"><animate attributeName="r" from="12" to="55" dur="4s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.5" to="0" dur="4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle r="12" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"><animate attributeName="r" from="12" to="55" dur="4s" begin="1.3s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.5" to="0" dur="4s" begin="1.3s" repeatCount="indefinite"/></circle>
+<circle r="12" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0.5"><animate attributeName="r" from="12" to="55" dur="4s" begin="2.6s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.5" to="0" dur="4s" begin="2.6s" repeatCount="indefinite"/></circle>
+<circle r="12" fill="#4c1d95" opacity="0.95"/>
+<circle r="7" fill="#7c3aed"/>
+<circle r="3" fill="#a78bfa"/>
+<text y="-18" text-anchor="middle" fill="#c4b5fd" font-size="8.5" font-family="monospace" font-weight="bold" filter="url(#ts)">ROBIN HQ</text>
+</g>
+<g transform="translate(246.5,144.0)" filter="url(#glow)">
+<circle r="5" fill="none" stroke="#a78bfa" stroke-width="1"><animate attributeName="r" from="5" to="20" dur="2.0s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.7" to="0" dur="2.0s" begin="0.00s" repeatCount="indefinite"/></circle>
+<circle r="5" fill="#a78bfa" opacity="0.9"/>
+<circle r="2.2" fill="white" opacity="0.6"/>
+<text dx="14.0" dy="3.0" text-anchor="start" fill="#94a3b8" font-size="7" font-family="monospace" filter="url(#ts)">Alberta Beer Fest</text>
+</g>
+<line x1="246.5" y1="216.0" x2="279.8" y2="234.2" stroke="#a78bfa" stroke-width="0.5" opacity="0.18"/>
+<g transform="translate(279.8,234.2)" filter="url(#glow)">
+<circle r="5" fill="none" stroke="#a78bfa" stroke-width="1"><animate attributeName="r" from="5" to="20" dur="2.35s" begin="0.16s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.7" to="0" dur="2.35s" begin="0.16s" repeatCount="indefinite"/></circle>
+<circle r="5" fill="#a78bfa" opacity="0.9"/>
+<circle r="2.2" fill="white" opacity="0.6"/>
+<text dx="12.3" dy="9.7" text-anchor="start" fill="#94a3b8" font-size="7" font-family="monospace" filter="url(#ts)">I Pray Festival</text>
+</g>
+<line x1="246.5" y1="216.0" x2="247.4" y2="254.0" stroke="#a78bfa" stroke-width="0.5" opacity="0.18"/>
+<g transform="translate(247.4,254.0)" filter="url(#glow)">
+<circle r="5" fill="none" stroke="#a78bfa" stroke-width="1"><animate attributeName="r" from="5" to="20" dur="2.7s" begin="0.36s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.7" to="0" dur="2.7s" begin="0.36s" repeatCount="indefinite"/></circle>
+<circle r="5" fill="#a78bfa" opacity="0.9"/>
+<circle r="2.2" fill="white" opacity="0.6"/>
+<text dx="0.3" dy="17.0" text-anchor="middle" fill="#94a3b8" font-size="7" font-family="monospace" filter="url(#ts)">AI Salon Calgary</text>
+</g>
+<line x1="246.5" y1="216.0" x2="214.0" y2="235.8" stroke="#a78bfa" stroke-width="0.5" opacity="0.18"/>
+<g transform="translate(214.0,235.8)" filter="url(#glow)">
+<circle r="5" fill="none" stroke="#a78bfa" stroke-width="1"><animate attributeName="r" from="5" to="20" dur="3.05s" begin="0.61s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.7" to="0" dur="3.05s" begin="0.61s" repeatCount="indefinite"/></circle>
+<circle r="5" fill="#a78bfa" opacity="0.9"/>
+<circle r="2.2" fill="white" opacity="0.6"/>
+<text dx="-12.0" dy="10.3" text-anchor="end" fill="#94a3b8" font-size="7" font-family="monospace" filter="url(#ts)">SumoFest</text>
+</g>
+<line x1="246.5" y1="216.0" x2="213.2" y2="197.8" stroke="#60a5fa" stroke-width="0.5" opacity="0.18"/>
+<g transform="translate(213.2,197.8)" filter="url(#glow)">
+<circle r="5" fill="none" stroke="#60a5fa" stroke-width="1"><animate attributeName="r" from="5" to="20" dur="3.4s" begin="0.91s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.7" to="0" dur="3.4s" begin="0.91s" repeatCount="indefinite"/></circle>
+<circle r="5" fill="#60a5fa" opacity="0.9"/>
+<circle r="2.2" fill="white" opacity="0.6"/>
+<text dx="-12.3" dy="-3.7" text-anchor="end" fill="#94a3b8" font-size="7" font-family="monospace" filter="url(#ts)">Lugo</text>
+</g>
+<line x1="246.5" y1="216.0" x2="245.6" y2="178.0" stroke="#f59e0b" stroke-width="0.5" opacity="0.18"/>
+<g transform="translate(245.6,178.0)" filter="url(#glow)">
+<circle r="5" fill="none" stroke="#f59e0b" stroke-width="1"><animate attributeName="r" from="5" to="20" dur="3.75s" begin="1.25s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.7" to="0" dur="3.75s" begin="1.25s" repeatCount="indefinite"/></circle>
+<circle r="5" fill="#f59e0b" opacity="0.9"/>
+<circle r="2.2" fill="white" opacity="0.6"/>
+<text dx="-0.3" dy="-11.0" text-anchor="middle" fill="#94a3b8" font-size="7" font-family="monospace" filter="url(#ts)">Plug & Play</text>
+</g>
+<line x1="246.5" y1="216.0" x2="279.0" y2="196.2" stroke="#34d399" stroke-width="0.5" opacity="0.18"/>
+<g transform="translate(279.0,196.2)" filter="url(#glow)">
+<circle r="5" fill="none" stroke="#34d399" stroke-width="1"><animate attributeName="r" from="5" to="20" dur="2.0s" begin="0.80s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.7" to="0" dur="2.0s" begin="0.80s" repeatCount="indefinite"/></circle>
+<circle r="5" fill="#34d399" opacity="0.9"/>
+<circle r="2.2" fill="white" opacity="0.6"/>
+<text dx="12.0" dy="-4.3" text-anchor="start" fill="#94a3b8" font-size="7" font-family="monospace" filter="url(#ts)">Volleyball Alberta</text>
+</g>
+<line x1="246.5" y1="216.0" x2="284.3" y2="274.9" stroke="#a78bfa" stroke-width="0.5" opacity="0.18"/>
+<g transform="translate(284.3,274.9)" filter="url(#glow)">
+<circle r="5" fill="none" stroke="#a78bfa" stroke-width="1"><animate attributeName="r" from="5" to="20" dur="2.35s" begin="1.10s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.7" to="0" dur="2.35s" begin="1.10s" repeatCount="indefinite"/></circle>
+<circle r="5" fill="#a78bfa" opacity="0.9"/>
+<circle r="2.2" fill="white" opacity="0.6"/>
+<text dx="7.6" dy="14.8" text-anchor="start" fill="#94a3b8" font-size="7" font-family="monospace" filter="url(#ts)">Legal Frequencies</text>
+</g>
+<line x1="246.5" y1="216.0" x2="242.5" y2="285.9" stroke="#f87171" stroke-width="0.5" opacity="0.18"/>
+<g transform="translate(242.5,285.9)" filter="url(#glow)">
+<circle r="5" fill="none" stroke="#f87171" stroke-width="1"><animate attributeName="r" from="5" to="20" dur="2.7s" begin="1.44s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.7" to="0" dur="2.7s" begin="1.44s" repeatCount="indefinite"/></circle>
+<circle r="5" fill="#f87171" opacity="0.9"/>
+<circle r="2.2" fill="white" opacity="0.6"/>
+<text dx="-0.8" dy="17.0" text-anchor="middle" fill="#94a3b8" font-size="7" font-family="monospace" filter="url(#ts)">AB Energy Regula..</text>
+</g>
+<line x1="246.5" y1="216.0" x2="202.2" y2="270.2" stroke="#a78bfa" stroke-width="0.5" opacity="0.18"/>
+<g transform="translate(202.2,270.2)" filter="url(#glow)">
+<circle r="5" fill="none" stroke="#a78bfa" stroke-width="1"><animate attributeName="r" from="5" to="20" dur="3.05s" begin="1.83s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.7" to="0" dur="3.05s" begin="1.83s" repeatCount="indefinite"/></circle>
+<circle r="5" fill="#a78bfa" opacity="0.9"/>
+<circle r="2.2" fill="white" opacity="0.6"/>
+<text dx="-8.9" dy="13.8" text-anchor="end" fill="#94a3b8" font-size="7" font-family="monospace" filter="url(#ts)">AI YYC Salon</text>
+</g>
+<line x1="450.0" y1="216.0" x2="483.3" y2="234.2" stroke="#34d399" stroke-width="0.5" opacity="0.18"/>
+<g transform="translate(483.3,234.2)" filter="url(#glow)">
+<circle r="5" fill="none" stroke="#34d399" stroke-width="1"><animate attributeName="r" from="5" to="20" dur="3.4s" begin="2.27s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.7" to="0" dur="3.4s" begin="2.27s" repeatCount="indefinite"/></circle>
+<circle r="5" fill="#34d399" opacity="0.9"/>
+<circle r="2.2" fill="white" opacity="0.6"/>
+<text dx="12.3" dy="9.7" text-anchor="start" fill="#94a3b8" font-size="7" font-family="monospace" filter="url(#ts)">Winnipeg Goldeyes</text>
+</g>
+<line x1="450.0" y1="216.0" x2="450.9" y2="254.0" stroke="#38bdf8" stroke-width="0.5" opacity="0.18"/>
+<g transform="translate(450.9,254.0)" filter="url(#glow)">
+<circle r="5" fill="none" stroke="#38bdf8" stroke-width="1"><animate attributeName="r" from="5" to="20" dur="3.75s" begin="2.75s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.7" to="0" dur="3.75s" begin="2.75s" repeatCount="indefinite"/></circle>
+<circle r="5" fill="#38bdf8" opacity="0.9"/>
+<circle r="2.2" fill="white" opacity="0.6"/>
+<text dx="0.3" dy="17.0" text-anchor="middle" fill="#94a3b8" font-size="7" font-family="monospace" filter="url(#ts)">ACE / RRC</text>
+</g>
+<line x1="450.0" y1="216.0" x2="417.5" y2="235.8" stroke="#60a5fa" stroke-width="0.5" opacity="0.18"/>
+<g transform="translate(417.5,235.8)" filter="url(#glow)">
+<circle r="5" fill="none" stroke="#60a5fa" stroke-width="1"><animate attributeName="r" from="5" to="20" dur="2.0s" begin="1.60s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.7" to="0" dur="2.0s" begin="1.60s" repeatCount="indefinite"/></circle>
+<circle r="5" fill="#60a5fa" opacity="0.9"/>
+<circle r="2.2" fill="white" opacity="0.6"/>
+<text dx="-12.0" dy="10.3" text-anchor="end" fill="#94a3b8" font-size="7" font-family="monospace" filter="url(#ts)">Shindico</text>
+</g>
+<g transform="translate(583.2,234.0)" filter="url(#glow)">
+<circle r="5" fill="none" stroke="#a78bfa" stroke-width="1"><animate attributeName="r" from="5" to="20" dur="2.35s" begin="2.04s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.7" to="0" dur="2.35s" begin="2.04s" repeatCount="indefinite"/></circle>
+<circle r="5" fill="#a78bfa" opacity="0.9"/>
+<circle r="2.2" fill="white" opacity="0.6"/>
+<text dx="14.0" dy="3.0" text-anchor="start" fill="#94a3b8" font-size="7" font-family="monospace" filter="url(#ts)">Sprawl Tech Week</text>
+</g>
+<g transform="translate(738.6,195.0)" filter="url(#glow)">
+<circle r="5" fill="none" stroke="#34d399" stroke-width="1"><animate attributeName="r" from="5" to="20" dur="2.7s" begin="2.52s" repeatCount="indefinite"/><animate attributeName="opacity" from="0.7" to="0" dur="2.7s" begin="2.52s" repeatCount="indefinite"/></circle>
+<circle r="5" fill="#34d399" opacity="0.9"/>
+<circle r="2.2" fill="white" opacity="0.6"/>
+<text dx="14.0" dy="3.0" text-anchor="start" fill="#94a3b8" font-size="7" font-family="monospace" filter="url(#ts)">Halifax Mooseheads</text>
+</g>
+<text x="246.5" y="188.0" text-anchor="middle" fill="#334155" font-size="7.5" font-family="monospace" letter-spacing="1.5">EDMONTON</text>
+<text x="246.5" y="324.0" text-anchor="middle" fill="#334155" font-size="7.5" font-family="monospace" letter-spacing="1.5">CALGARY</text>
+<text x="450.0" y="276.0" text-anchor="middle" fill="#334155" font-size="7.5" font-family="monospace" letter-spacing="1.5">WINNIPEG</text>
+<text x="583.2" y="278.0" text-anchor="middle" fill="#334155" font-size="7.5" font-family="monospace" letter-spacing="1.5">TORONTO</text>
+<text x="738.6" y="239.0" text-anchor="middle" fill="#334155" font-size="7.5" font-family="monospace" letter-spacing="1.5">HALIFAX</text>
+<rect x="754" y="10" width="140" height="116" rx="7" fill="#0d1117" stroke="#21262d" stroke-width="1" opacity="0.95"/>
+<text x="762" y="23" fill="#8b949e" font-size="7.5" font-family="monospace" font-weight="bold">ROBIN DEPLOYMENTS</text>
+<circle cx="767" cy="38" r="4" fill="#a78bfa"/>
+<text x="777" y="41.5" fill="#6e7681" font-size="7.5" font-family="monospace">events</text>
+<circle cx="767" cy="52" r="4" fill="#34d399"/>
+<text x="777" y="55.5" fill="#6e7681" font-size="7.5" font-family="monospace">sports</text>
+<circle cx="767" cy="66" r="4" fill="#60a5fa"/>
+<text x="777" y="69.5" fill="#6e7681" font-size="7.5" font-family="monospace">business</text>
+<circle cx="767" cy="80" r="4" fill="#f59e0b"/>
+<text x="777" y="83.5" fill="#6e7681" font-size="7.5" font-family="monospace">tech</text>
+<circle cx="767" cy="94" r="4" fill="#f87171"/>
+<text x="777" y="97.5" fill="#6e7681" font-size="7.5" font-family="monospace">enterprise</text>
+<circle cx="767" cy="108" r="4" fill="#38bdf8"/>
+<text x="777" y="111.5" fill="#6e7681" font-size="7.5" font-family="monospace">education</text>
+<text x="22" y="26" fill="#e6edf3" font-size="14" font-family="monospace" font-weight="bold">Robin Signal Map</text>
+<text x="22" y="40" fill="#484f58" font-size="8" font-family="monospace">15 active deployments  |  Canada</text>
+<line x1="14" y1="23" x2="14" y2="11" stroke="#7c3aed" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M8,15 Q14,3 20,15" fill="none" stroke="#7c3aed" stroke-width="1.2" opacity="0.7"/>
+<path d="M4,18 Q14,-3 24,18" fill="none" stroke="#7c3aed" stroke-width="0.8" opacity="0.4"/>
+</svg>
