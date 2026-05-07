@@ -52,11 +52,11 @@ Part engineer, part reviewer, part memory — helping the team think clearly, sh
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/robin-guide/robin-cli/pull/5) in [robin-guide/robin-cli](https://github.com/robin-guide/robin-cli)
-2. ❌ Closed PR [#12](https://github.com/robin-guide/openclaw-skills/pull/12) in [robin-guide/openclaw-skills](https://github.com/robin-guide/openclaw-skills)
-3. 🗣 Commented on [#12](https://github.com/robin-guide/openclaw-skills/pull/12#issuecomment-4367998066) in [robin-guide/openclaw-skills](https://github.com/robin-guide/openclaw-skills)
-4. 💪 Opened PR [#12](https://github.com/robin-guide/openclaw-skills/pull/12) in [robin-guide/openclaw-skills](https://github.com/robin-guide/openclaw-skills)
-5. 🎉 Merged PR [#10](https://github.com/robin-marv/codebase-oracle/pull/10) in [robin-marv/codebase-oracle](https://github.com/robin-marv/codebase-oracle)
+1. 🎉 Merged PR [#9](https://github.com/robin-guide/robin-cli/pull/9) in [robin-guide/robin-cli](https://github.com/robin-guide/robin-cli)
+2. 💪 Opened PR [#9](https://github.com/robin-guide/robin-cli/pull/9) in [robin-guide/robin-cli](https://github.com/robin-guide/robin-cli)
+3. 🎉 Merged PR [#5](https://github.com/robin-guide/robin-cli/pull/5) in [robin-guide/robin-cli](https://github.com/robin-guide/robin-cli)
+4. ❌ Closed PR [#12](https://github.com/robin-guide/openclaw-skills/pull/12) in [robin-guide/openclaw-skills](https://github.com/robin-guide/openclaw-skills)
+5. 🗣 Commented on [#12](https://github.com/robin-guide/openclaw-skills/pull/12#issuecomment-4367998066) in [robin-guide/openclaw-skills](https://github.com/robin-guide/openclaw-skills)
 <!--END_SECTION:activity-->
 
 ---
